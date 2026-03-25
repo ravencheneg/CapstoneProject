@@ -44,10 +44,9 @@ class NYCRecommendationEngine:
 
     def process_data(self):
         """Process and prepare data for recommendations."""
-        # Convert price levels to tier system ($, $$, $$$, $$$$)
-        self.places_df['price_tier'] = self.places_df['Price_Level'].apply(
-            self._convert_to_price_tier
-        )
+        # Use Price_Symbol directly from database (no conversion needed)
+        # Rename for backward compatibility with existing code
+        self.places_df['price_tier'] = self.places_df['Price_Symbol']
 
         # Create text representations for places
         self.places_df['text_representation'] = self._create_place_text()
@@ -107,9 +106,17 @@ class NYCRecommendationEngine:
                 f"Type: {place['Type']}",
                 f"Category: {place['Category']}",
                 f"Neighborhood: {place['Neighborhood']}",
-                f"Vibe: {place['Vibe_Type']}",
-                f"Crowd: {place['Crowd_Type']}",
             ]
+
+            # Emphasize vibe/atmosphere by repeating it (weights it more in matching)
+            vibe = place['Vibe_Type']
+            if pd.notna(vibe):
+                parts.append(f"Vibe: {vibe}")
+                parts.append(f"Atmosphere: {vibe}")  # Add twice for emphasis
+
+            # Add crowd type
+            if pd.notna(place['Crowd_Type']):
+                parts.append(f"Crowd: {place['Crowd_Type']}")
 
             # Add features
             if place['Has_Music'] == 'Yes':
@@ -130,23 +137,26 @@ class NYCRecommendationEngine:
         parts = []
 
         # Preferred neighborhood
-        if 'preferred_neighborhood' in user_data:
+        if 'preferred_neighborhood' in user_data and user_data['preferred_neighborhood']:
             parts.append(f"Prefers {user_data['preferred_neighborhood']}")
 
         # Activities
-        if 'activities' in user_data:
+        if 'activities' in user_data and user_data['activities']:
             parts.append(f"Enjoys {user_data['activities']}")
 
         # Dining preferences
-        if 'dining_preferences' in user_data:
+        if 'dining_preferences' in user_data and user_data['dining_preferences']:
             parts.append(f"Dining: {user_data['dining_preferences']}")
 
-        # Atmosphere
-        if 'atmosphere' in user_data:
-            parts.append(f"Atmosphere: {user_data['atmosphere']}")
+        # Atmosphere - EMPHASIZE by adding multiple times for better matching
+        if 'atmosphere' in user_data and user_data['atmosphere']:
+            atmo = user_data['atmosphere']
+            parts.append(f"Atmosphere: {atmo}")
+            parts.append(f"Vibe: {atmo}")
+            parts.append(f"Prefers {atmo} environment")
 
         # Music preferences
-        if 'music_genres' in user_data:
+        if 'music_genres' in user_data and user_data['music_genres']:
             parts.append(f"Music: {user_data['music_genres']}")
 
         # Solo or group
@@ -195,17 +205,11 @@ class NYCRecommendationEngine:
             price_tier = user_data['price_tier']
 
             if isinstance(price_tier, str):
-                # Single tier specified
-                results = results[
-                    (results['price_tier'].isna()) |
-                    (results['price_tier'] == price_tier)
-                ]
+                # Single tier specified - STRICT filtering (no null values)
+                results = results[results['price_tier'] == price_tier]
             elif isinstance(price_tier, list):
-                # Multiple tiers specified
-                results = results[
-                    (results['price_tier'].isna()) |
-                    (results['price_tier'].isin(price_tier))
-                ]
+                # Multiple tiers specified - STRICT filtering (no null values)
+                results = results[results['price_tier'].isin(price_tier)]
 
         if 'max_price_tier' in user_data and user_data['max_price_tier'] is not None:
             # Filter by maximum price tier
@@ -216,10 +220,8 @@ class NYCRecommendationEngine:
             if max_tier in tier_order:
                 max_index = tier_order.index(max_tier)
                 allowed_tiers = tier_order[:max_index + 1]
-                results = results[
-                    (results['price_tier'].isna()) |
-                    (results['price_tier'].isin(allowed_tiers))
-                ]
+                # STRICT filtering - only show places with known prices in allowed tiers
+                results = results[results['price_tier'].isin(allowed_tiers)]
 
         # Apply Solo/Group Friendly filter
         if 'solo_friendly' in user_data and user_data['solo_friendly'] is True:
