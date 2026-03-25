@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
+import sqlite3
+import os
 import re
 import warnings
 warnings.filterwarnings('ignore')
@@ -13,10 +15,24 @@ class NYCRecommendationEngine:
     Uses user preferences and demographics to suggest places to visit.
     """
 
-    def __init__(self, users_csv='Users.csv', places_csv='Places.csv'):
-        """Initialize the recommendation engine with datasets."""
-        self.users_df = pd.read_csv(users_csv)
-        self.places_df = pd.read_csv(places_csv)
+    def __init__(self, db_path='nyc_places.db'):
+        """
+        Initialize the recommendation engine with SQLite database.
+
+        Args:
+            db_path: Path to SQLite database file (default: 'nyc_places.db')
+        """
+        # Check if database exists
+        if not os.path.exists(db_path):
+            raise FileNotFoundError(f"Database file '{db_path}' not found. Run create_database.py first.")
+
+        # Load data from SQLite database
+        print(f"Loading data from {db_path}...")
+        conn = sqlite3.connect(db_path)
+        self.users_df = pd.read_sql_query("SELECT * FROM users", conn)
+        self.places_df = pd.read_sql_query("SELECT * FROM places", conn)
+        conn.close()
+        print(f"Loaded {len(self.users_df)} users and {len(self.places_df)} places")
 
         # Load HuggingFace sentence transformer model for semantic similarity
         print("Loading HuggingFace model...")

@@ -6,7 +6,8 @@ A recommendation engine that suggests NYC places to visit based on user interest
 
 - 🤖 Uses HuggingFace `sentence-transformers` for semantic similarity matching
 - 🎯 Intelligent matching of user preferences with place characteristics
-- 🚀 RESTful API built with Flask
+- 🚀 Interactive Gradio web interface + RESTful API
+- 💾 SQLite database for portable, embedded data storage
 - 💰 Price tier filtering system ($, $$, $$$, $$$$)
 - 🏷️ Category-based filtering (Cafe, Food, Entertainment, Museums, etc.)
 - 👤 Solo/Group friendly filtering
@@ -22,13 +23,28 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Run the Backend Server
+### 2. Database Setup
 
+**The SQLite database (`nyc_places.db`) is included in the repository** - no setup needed!
+
+If you need to recreate it from CSV files:
+```bash
+python create_database.py
+```
+
+### 3. Run the Application
+
+**Gradio Web Interface** (recommended):
 ```bash
 python app.py
 ```
+Then open your browser to the URL shown (usually `http://127.0.0.1:7860`)
 
-The server will start at `http://localhost:5000`
+**Flask REST API** (for developers):
+```bash
+python flask_api.py
+```
+The API server will start at `http://localhost:5000`
 
 ## API Endpoints
 
@@ -170,13 +186,16 @@ python test_new_filters.py
 
 ## Dataset
 
-The system includes two datasets:
-- **Users.csv**: User profiles with preferences, demographics, and interests
-- **Places.csv**: 139 NYC locations with attributes including:
+The system uses a **SQLite database** (`nyc_places.db`) containing:
+
+- **Users table**: 92 user profiles with preferences, demographics, and interests
+- **Places table**: 139 NYC locations with attributes including:
   - Type, Category, Neighborhood
   - Vibe and Crowd Type
   - Price Level, Solo/Group Friendliness
   - Music, Alcohol, and Smoking availability
+
+**CSV files** (`Users.csv` and `Places.csv`) are also included for reference and can be used to recreate the database.
 
 ## Future Enhancements
 

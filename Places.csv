@@ -1,140 +1,140 @@
-Place_ID,Name_of_place,Type,Food_Type,Category,Location_of_place,Neighborhood,Address,Vibe_Type,Crowd_Type,Has_Music,Has_Alcohol,Has_Smoking,Solo_Friendly,Group_Friendly,Phone,Price_Level
-1,Cafe Lyria,Cafe,,Cafe,New York,SoHo,"166 Crosby St, New York, NY 10012","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 677-4579,$5–$20 per person
-2,Fellini Coffee,Cafe,,Cafe,New York,West Village,"174 7th Ave S, New York, NY 10014","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,,$15–$40 per person
-3,Frame Coffee,Cafe,,Cafe,New York,Upper West Side,"305 Amsterdam Ave, New York, NY 10023","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 716-2365,$5–$20 per person
-4,Harper’s Bread House,Cafe,,Cafe,New York,Lower East Side,"271 Grand St, New York, NY 10002","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 226-8882,$5–$15 per person
-5,Hien From Vietnam,Cafe,,Cafe,New York,Chinatown,"121 Mott St, New York, NY 10013","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 917-0798,$5–$20 per person
-6,Le Phin,Cafe,,Cafe,New York,East Village,"259 E 10th St, New York, NY 10009","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(929) 422-3972,$15–$40 per person
-7,Mee Sum Cafe,Cafe,,Cafe,New York,Chinatown,"26 Pell St, New York, NY 10013","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 349-5260,$5–$15 per person
-8,Paquita,Cafe,,Cafe,New York,West Village,"242 W 10th St, New York, NY 10014","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 360-0335,$15–$40 per person
-9,Patisserie Vanessa,Cafe,,Cafe,New York,Upper East Side,"1340 Lexington Ave, New York, NY 10128","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(855) 466-5227,$15–$40 per person
-10,Pio Hot Bagels,Cafe,,Cafe,New York,Staten Island,"655 Rossville Ave, Staten Island, NY 10309","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(718) 605-6100,$5–$15 per person
-11,Royal Crown Bakery,Cafe,,Cafe,New York,Staten Island,"1350 Hylan Blvd, Staten Island, NY 10305","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(718) 668-0284,$5–$15 per person
-12,Caveat,Comedy Club,,Entertainment,New York,Lower East Side,"21A Clinton St, New York, NY 10002","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(212) 228-2100,$15-$20 per person
-13,Eastville Comedy Club,Comedy Club,,Entertainment,New York,Fort Greene,"487 Atlantic Ave, Brooklyn, NY 11217","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(347) 889-5226,$25 per person
-14,Littlefield,Comedy Club,,Entertainment,New York,Fort Greene,"635 Sackett St, Brooklyn, NY 11217","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,$12-$30 per person
-15,Pete’s Candy Store,Comedy Club,,Entertainment,New York,Williamsburg,"709 Lorimer St, Brooklyn, NY 11211","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(718) 302-3770,$10-$20 per person
-16,Q.E.D. Astoria,Comedy Club,,Entertainment,New York,Astoria,"27-16 23rd Avenue, Astoria, NY 11105","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(347) 451-3873,
-17,The Bell House,Comedy Club,,Entertainment,New York,Park Slope,"149 7th St, Brooklyn, NY 11215","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,
-18,The Stand,Comedy Club,,Entertainment,New York,East Village,"116 E 16th St, New York, NY 10003","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,
-19,The Tiny Cupboard,Comedy Club,,Entertainment,New York,Bushwick,"10 Cooper St, Brooklyn, NY 11207","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,
-20,Union Hall,Comedy Club,,Entertainment,New York,Park Slope,"702 Union St, Brooklyn, NY 11215","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,
-21,West Side Comedy Club,Comedy Club,,Entertainment,New York,Upper West Side,"201 W 75th St, New York, NY 10023","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,
-22,Bossa Nova Civic Club,Dance Club,,Night Life,New York,Bushwick,"1271 Myrtle Ave, Brooklyn, NY 11221","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,$10–20 per perseon
-23,Cafe Balearica,Dance Club,,Night Life,New York,Williamsburg,"44 Berry St, Brooklyn, NY 11249","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,$7-20 per person
-24,Friends and Lovers,Dance Club,,Night Life,New York,Brooklyn,"641 Classon Ave, Brooklyn, NY 11238","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,$20-30 per person
-25,Gabriela,Dance Club,,Night Life,New York,Williamsburg,"90 Wythe Ave, Brooklyn, NY 11249","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,$10-20 per person
-26,Good Room,Dance Club,,Night Life,New York,Greenpoint,"98 Meserole Ave, Brooklyn, NY 11222","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,$30-40 per person
-27,FROSCH & CO,Gallery,,Gallery,New York,Lower East Side,"34 E Broadway, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,
-28,Gallery Onetwentyeight,Gallery,,Gallery,New York,Lower East Side,"128 Rivington St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,
-29,Hannah Traore Gallery,Gallery,,Gallery,New York,Lower East Side,"150 Orchard St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,
-30,Hashimoto Contemporary,Gallery,,Gallery,New York,Lower East Side,"54 Ludlow St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,
-31,Hollis Taggart Downtown,Gallery,,Gallery,New York,Lower East Side,"109 Norfolk St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,
-32,IFAC,Gallery,,Gallery,New York,Noho,"85 Delancey St 2nd floor, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,(646) 863-1009,
-33,Brooklyn Seltzer Museum,Museum,,Museum,New York,Brooklyn,"474 Hemlock St, Brooklyn, NY 11208","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 912-4941,$25 per person
-34,Fraunces Tavern Museum,Museum,,Museum,New York,Lower Manhattan,"54 Pearl St 2nd floor, New York, NY 10004","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 425-1778,$10 per person
-35,City Reliquary,Museum,,Museum,New York,Williamsburg,"370 Metropolitan Ave, Brooklyn, NY 11211","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 782-4842,$10 per person
-36,Louis Armstrong House,Museum,,Museum,New York,Jackson Heights,"34-56 107th St, Queens, NY 11368","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 478-8274,$10 per person
-37,Museum of Chinese in America,Museum,,Museum,New York,Chinatown,"215 Centre St, New York, NY 10013","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 619-4785,$8 per person
-38,Nicholas Roerich Museum,Museum,,Museum,New York,Manhattan Valley,"319 W 107th St, New York, NY 10025","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 864-7752,
-39,Skyscraper Museum,Museum,,Museum,New York,Financial District,"39 Battery Pl, New York, NY 10280","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 945-6324,
-40,The Bone Museum,Museum,,Museum,New York,East Williamsburg,"255 McKibbin St Studio 0014, Brooklyn, NY 11206","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(914) 230-0937,
-41,The Gecko Gallery NYC,Museum,,Museum,New York,East Williamsburg,"255 McKibbin St Studio 0019, Brooklyn, NY 11206","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(347) 510-6108,$20
-42,The Renee & Chaim Gross Foundation,Museum,,Museum,New York,Greenwich Village,"526 LaGuardia Pl, New York, NY 10012","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 529-4906,$15
-43,Torah Animal World,Museum,,Museum,New York,Brooklyn,"1603 41st St, Brooklyn, NY 11218","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(877) 752-6286,$10 per exhibit
-44,Vander Ende-Onderdonk House,Museum,,Museum,New York,Queens,"18-20 Flushing Ave, Ridgewood, NY 11385","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 456-1776,$5
-45,Omakase by Korami,Restaurant,Japanese,Food,New York,Midtown West,"400 W 50th St, New York, NY 10019","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 215-0650,$80–$110 per person
-46,Abuqir,Restaurant,Middle Eastern,Food,New York,Astoria,"24-19 Steinway St, Astoria, NY 11103","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 274-3474,$20-$30 per person
-47,Alba,Restaurant,Italian,Food,New York,Staten Island,"1880 Hylan Blvd, Staten Island, NY 10305","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(929) 556-6141,$80–$110 per person
-48,Angel,Restaurant,Indian,Food,New York,Jackson Heights,"7414 37th Rd, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 848-0098,$20-$30 per person
-49,Angelina's Kitchen,Restaurant,Italian,Food,New York,Staten Island,"280 Marsh Ave, Staten Island, NY 10314","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 698-2000,$10–$25 per person
-50,Arepa Lady,Restaurant,Colombian,Food,New York,Jackson Heights,"77-17 37 Ave, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 745-1111,$10–$25 per person
-51,Birria-Landia,Restaurant,Mexican,Food,New York,Jackson Heights,"77-99 Roosevelt Ave, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 283-2162,$10–$25 per person
-52,Bo Ky,Restaurant,Chinese,Food,New York,SoHo,"80 Bayard St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 406-2292,$10–$25 per person
-53,Brooklyn Suya,Restaurant,Nigerian,Food,New York,Prospect Heights,"717 Franklin Ave, Brooklyn, NY 11238","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 513-0122,$10–$25 per person
-54,Chalupas Poblanas El Tlecuile,Restaurant,Mexican,Food,New York,Corona,"37-47 Junction Blvd, New York, NY 11368","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 424-3662,$20-$30 per person
-55,Chang Lai Fishballs & Noodles,Restaurant,Chinese,Food,New York,SoHo,"55B Bayard St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 378-3991,$1-10 per person
-56,Denino's Pizzeria,Restaurant,Italian,Food,New York,Staten Island,"524 Port Richmond Ave, Staten Island, NY 10302","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 442-9401,$15–$40 per person
-57,Don Udon,Restaurant,Japanese,Food,New York,Prospect Heights,"634 Park Pl, Brooklyn, NY 11238","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 365-6388,$20-$30 per person
-58,Duffy's,Restaurant,American,Food,New York,Staten Island,"650 Forest Ave, Staten Island, NY 10310","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(646) 609-4820,$20-$30 per person
-59,El Sabroso,Restaurant,Mexican,Food,New York,Midtown,"265 W 37th St, New York, NY 10018","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 284-1118,$10–$25 per person
-60,Fu Zhou Wei Zhong,Restaurant,Chinese,Food,New York,Lower East Side,"88 E Broadway, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 431-3555,$1-10 per person
-61,Great N.Y. Noodletown,Restaurant,Chinese,Food,New York,SoHo,"28 Bowery, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 349-0923,$10–$25 per person
-62,Hug Esan NYC,Restaurant,Thai,Food,New York,Elmhurst,"77-16 Woodside Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(929) 328-0392,$25–$55 per person
-63,Jackson Diner,Restaurant,Indian,Food,New York,Jackson Heights,"37-47 74th St, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 672-1232,$25–$55 per person
-64,Khao Kang,Restaurant,Thai,Food,New York,Elmhurst,"76-20 Woodside Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 806-1807,$10–$30 per person
-65,Killmeyer’s,Restaurant,German,Food,New York,Staten Island,"4254 Arthur Kill Rd, Staten Island, NY 10309","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 984-1202,$10–$30 per person
-66,Koten's Carribean and American Restaurant,Restaurant,Caribbean & American,Food,New York,Staten Island,"537 Port Richmond Ave, Staten Island, NY 10302","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$10–$30 per person
-67,Lakruwana,Restaurant,Sri Lankan,Food,New York,Staten Island,"668 Bay St, Staten Island, NY 10304","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 857-6619,$20–$45 per person
-68,Lei,Restaurant,Chinese,Food,New York,SoHo,"15–17 Doyers St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$100 per person
-69,Lillo Cucina Italiana,Restaurant,Italian,Food,New York,Brooklyn Heights,"221 Henry St, Brooklyn, NY 11201","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 763-0899,$10–$30 per person
-70,Louie and Ernie's Pizza,Restaurant,Italian,Food,New York,Bronx,"1300 Crosby Ave, Bronx, NY 10461","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 829-6230,$10–$30 per person
-71,Margon Restaurant,Restaurant,Cuban,Food,New York,Mid Manhattan,"136 W 46th St, New York, NY 10036","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 354-5013,$10–$30 per person
-72,Marina Cafe,Restaurant,Italian,Food,New York,Staten Island,"154 Mansion Ave, Staten Island, NY 10308","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 967-3077,$50-$100 per person
-73,Mariscos El Submarino,Restaurant,Mexican,Food,New York,Jackson Heights,"88-05 Roosevelt Ave, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 685-2780,$20-$30 per person
-74,Maxi’s Noodle 3,Restaurant,Chinese,Food,New York,Chinatown,"68 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$5–$20 per person
-75,Mei Lai Wah,Restaurant,Chinese,Food,New York,Chinatown,"41 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 966-7866,$5–$20 per person
-76,Montalbano's,Restaurant,Italian,Food,New York,Staten Island,"1140 Bay St, Staten Island, NY 10305","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 356-0072,$20–$45 per person
-77,Nepali Bhanchha Ghar,Restaurant,Nepalese,Food,New York,Jackson Heights,"7406 37th Rd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 745-0533,$1-10 per person
-78,New Asha Sri Lankan Restaurant,Restaurant,Sri Lankan,Food,New York,Staten Island,"322 Victory Blvd, Staten Island, NY 10301","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 420-0649,$20–$45 per person
-79,Ocean Sushi,Restaurant,Japanese,Food,New York,Staten Island,"20 Jefferson Blvd, Staten Island, NY 10312","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 966-6888,$20-$30 per person
-80,Phayul,Restaurant,Tibetan,Food,New York,Jackson Heights,"3765 74th St Fl 2, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 424-1869,$5–$15 per person
-81,Phoenix Palace,Restaurant,Chinese,Food,New York,Chinatown,"85 Bowery, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$50-$100 per person
-82,Punjabi Deli,Restaurant,Indian,Food,New York,East Village,"114 E 1st St, New York, NY 10009","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 533-3356,$5–$15 per person
-83,Royal Seafood Restaurant,Restaurant,Chinese,Food,New York,Chinatown,"103 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 219-2338,$10–$20 per person
-84,Sariling Atin,Restaurant,Filipino,Food,New York,Woodside,"89-12 Queens Blvd, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 397-1200,$1-10 per person
-85,Seba Seba,Restaurant,Ethiopian,Food,New York,Jackson Heights,"83-03 Northern Blvd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 478-4691,$10–$20 per person
-86,Shu Jiao Fu Zhou,Restaurant,Chinese,Food,New York,Chinatown,"295 Grand St, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212)625-2532,$1-10 per person
-87,Spicy Village,Restaurant,Chinese,Food,New York,Lower East Side,"68 Forsyth St B, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 625-8299,$10–$25 per person
-88,Taiwan Pork Chop House,Restaurant,Taiwanese,Food,New York,Chinatown,"3 Doyers St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 791-7007,$10–$25 per person
-89,Taste Good Malaysian Cuisine,Restaurant,Malaysian,Food,New York,Elmhurst,"82-18 45th Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$10–$20 per person
-90,The Queensboro Restaurant,Restaurant,American,Food,New York,Jackson Heights,"80-02 Northern Blvd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$20-$30 per person
-91,Uncle Lou,Restaurant,Chinese,Food,New York,Chinatown,"73 Mulberry St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 966-5538,$20–$50 per person
-92,Yi Ji Shi Mo,Restaurant,Chinese,Food,New York,Chinatown,"88 Elizabeth St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,$1-10 per person
-93,Luthun,Restaurant,Contemporary American / New American,Food,New York,East Village,"432 E 13th St, New York, NY 10009",Cozy,Locals,No,Yes,No,Yes,Yes,,$135-$170 per person
-94,Bookmarks,Rooftop Bar,,Bar,New York,Midtown East,"299 Madison Ave, New York, NY 10017",Casual,Mixed Crowd,No,No,No,Yes,Yes,(212) 204-5498,$35-$75 per person
-95,Dear Irving on Hudson,Rooftop Bar,,Bar,New York,Midtown Manhattan,"310 West 40th Street, New York, NY 10018",Casual,Mixed Crowd,No,No,No,Yes,Yes,(917) 261-6908,$35-$75 per person
-96,Harriet's Rooftop,Rooftop Bar,,Bar,New York,Brooklyn Heights,"60 Furman Street, Brooklyn, NY 11201",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 852-8797,$30-$70 per person
-97,Night of Joy,Rooftop Bar,,Bar,New York,East Williamsburg,"667 Lorimer St, Brooklyn, NY 11211",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 388-8693,$15-$35 per person
-98,Westlight,Rooftop Bar,,Bar,New York,Greenpoint,"111 N 12th St, Brooklyn, NY 11249",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 307-7100,$40-$100 per person
-99,Chez Zou,Rooftop ,Mediterranean,Cocktail Lounge,New York,Hudson Yards,"385 9th Ave Suite 85 4th Floor, New York, NY 10001","Social, Intimate",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 380-8585,$50+ per person
-100,Zou Zou's,Restaurant,Mediterranean,Food,New York,Hudson Yards,"385 9th Ave Suite 85 1st Floor, New York, NY 10001","Casual, Energetic ",Mixed Crowd,Yes,Yes,No,No,Yes,(212) 380-8586,$35+ per person
-101,STK,Restaurant,Steakhouse,Food,New York,Midtown,"1114 6th Ave, New York, NY 10036","Chic, Energetic",Mixed Crowd,Yes,Yes,No,Yes,Yes,(646) 624-2455,$$$
-102,STK,Restaurant,Steakhouse,Food,New York,Meatpacking,"26 Little W 12th St, New York, NY 10014","Chic, Energetic",Mixed Crowd,Yes,Yes,No,Yes,Yes,(646) 624-2444,$$$
-103,Carmine's,Restaurant,Italian,Food,New York,Upper West Side,"2450 Broadway, New York, NY 10024","Casual, Energetic ",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 362-2200,$$
-104,estiatorio Milo's,Restaurant,"Greek, Seafood",Food,New York,Midtown,"125 W 55th St, New York, NY 10019","Intimate, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 245-7400,$$$$
-105,estiatorio Milo's,Restaurant,"Greek, Seafood",Food,New York,Hudson Yards,"20 Hudson Yards Fifth Floor, New York, NY 10001","Intimate, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(646) 907-1970,$$$$
-106,Butcher and Banker NYC,Restaurant,American,Food,New York,Midtown,"Vault Level, 481 8th Ave, New York, NY 10001","Speakeasy, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 268-8455,$$$$
-107,Whitney Museum of American Art,Museum,,Museum,New York,Meatpacking,"99 Gansevoort St, New York, NY 10014","Casual, Relaxed","Mixed Crowd, Tourist, Family",No,No,No,Yes,Yes,(212) 570-3600,$
-108,David Zwirner,Gallery,,Museum,New York,Chelsea,"533 W 19th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 727-2070,$
-109,Gagosian,Gallery,,Museum,New York,Chelsea,"555 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 741-1111,$
-110,Matthew Marks Gallery,Gallery,,Museum,New York,Chelsea,"523 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 243-0200,$
-111,Gladstone Gallery,Gallery,,Museum,New York,Chelsea,"515 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 206-9300,$
-112,The Seville NYC,Bar,Bar Bites,Bar,New York,NoMad,"22 E 29th St New York, NY 10016","Social, Energetic","Mixed, Locals",Yes,Yes,No,Yes,Yes,,$$$$
-113,Las'Lap,Bar,Carribean-Inspired,Bar,New York,Lower East Side,"74 Orchard St, New York, NY 10002","Social, Energetic","Mixed, Locals",Yes,Yes,Yes,Yes,Yes,(646) 484-6002,$
-114,Sweet Chick,Restaurant,American,Food,New York,Lower East Side,"178 Ludlow St, New York, NY 10002",Casual,"Mixed, Locals",Yes,Yes,No,Yes,Yes,(646) 657-0217,$
-115,The Delancy Rooftop,Rooftop,Bar Bites,Night Life,New York,Lower East Side,"168 Delancey St, New York, NY 10002","Energetic, Party",Mixed Crowd,Yes,Yes,No,Yes,Yes,(332) 244-5569,$$
-116,Ten11 Lounge & Bar,Bar,Bar Bites,Night Life,New York,NoMad,"19 W 31st St, New York, NY 10001","Intimate, Chic",Mixed Crowd,Yes,Yes,No,No,No,(929) 930-2598,$$$
-117,LÉLÉ,Restaurant,Afro-Carribean,Food,New York,Midtown,"237 Madison Ave, New York, NY 10016","Chic, Cozy, Intimate",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 999-6476,$$$
-118,Buddakan,Restaurant,Asian,Food,New York,Meatpacking,"75 9th Ave, New York, NY 10011","Chic, Energetic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 989-6699,$$$
-119,Laut NYC,Restaurant,Malaysian,Food,New York,Union Square,"15 E 17th St, New York, NY 10003","Cozy, Trendy, Energetic",Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 206-8989,$$
-120,Russ & Daughters Cafe,Restaurant,American,Food,New York,Lower East Side,"127 Orchard St, New York, NY 10002",Casual,Locals,No,No,No,Yes,Yes,(212) 475-4881,$
-121,Via Carota,Restaurant,Italian,Food,New York,West Village,"51 Grove St, New York, NY 10014",Cozy,Locals,Ambient Music,Yes,No,Yes,Yes,,$$$
-122,Don Angie ,Restaurant,Italian,Food,New York,West Village,"103 Greenwich Ave, New York, NY 10014","Cozy, Energetic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 889-8884,$$$
-123,COTE,Restaurant,Korean American Steakhouse,Food,New York,Flatiron,"16 W 22nd St, New York, NY 10010",Chic,Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 401-7886,$$$$
-124,Le Bernardin,Restaurant,French,Food,New York,Upper East Side,"155 W 51st St, New York, NY 10019","Upscale, Chic",Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 554-1515,$$$$
-125,Balthazar,Restaurant,French,Food,New York,SoHo,"80 Spring St, New York, NY 10012","Lively, Energetic","Locals, Tourists",Ambient Music,Yes,No,Yes,Yes,(212) 965-1414,$$
-126,Win Son Bakery,Bakery,Taiwanese,Food,New York,East Village,"23 2nd Ave, New York, NY 10003",Casual,Locals,No,No,No,Yes,No,(646) 869-0150,$
-127,Tatiana by Kwame Onwuachi,Restaurant,Afro-Carribean,Food,New York,Lincoln Square,"10 Lincoln Center Plaza, New York, NY 10023","Energetic, Social",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 875-5222,$$$$
-128,Clay ,Restaurant,American,Food,New York,Harlem,"553 Manhattan Ave, New York, NY 10027","Upscale, Chic","Mixed Crowd, Locals",Ambient Music,Yes,No,Yes,Yes,(212) 729-1850,$$$
-129,Frankie's 457 Spuntino,Restaurant,Italian-American,Food,New York,Park Slope,"457 Court St Brooklyn, NY 11231","Casual, Cozy",Locals,Ambient Music,Yes,No,Yes,Yes,(718) 403-0033,$$
-130,Blue Ribbon Brasserie,Restaurant,American,Food,New York,SoHo,"97 Sullivan St, New York, NY 10012","Casual, Cozy",Locals,No,Yes,No,Yes,Yes,(212) 274-0404,$$$
-131,Serafina Tribeca,Restaurant,Italian,Food,New York,Tribeca,"95 W Broadway, New York, NY 10007","Casual, Cozy, Authentic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 766-2700,$$
-132,Serafina Broadway 55th,Restaurant,Italian,Food,New York,Midtown,"210 W 55th St, New York, NY 10019","Casual, Cozy, Authentic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 315-1700,$$
-133,Kyma Hudson Yards,Restaurant,Greek,Food,New York,Hudson Yards,"445 W 35th St, New York, NY 10001","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 967-9700,$$$$
-134,Kyma,Restaurant,Greek,Food,New York,Flatiron,"15 W 18th St, New York, NY 10011","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 268-5555,$$$$
-135,Monkey Bar,Restaurant,American,Food,New York,Midtown,"60 E 54th St, New York, NY 10022","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 404-0365,$$$$
-136,Catch,Restaurant,Seafood,Food,New York,Meatpacking,"21 9th Ave, New York, NY 10014","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 392-5978,$$$$
-137,Paint 'N Pour,Activity,,Activity,New York,Lower East Side,"53 Delancey St, New York, NY 10002",Casual,Mixed Crowd,No,Yes,No,Yes,Yes,(212) 804-7037,$
-138,Skyscape,Activity,,Activity,New York,Midtown,"928 8th Ave, New York, NY 10019",Casual,"Mixed Crowd, Family",No,No,No,Yes,Yes,N/A,$
-139,Atomix,Restaurant,Korean,,New York,NoMad,"104 E 30th St, New York, NY 10016","Intimate, Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,N/A,$$$$
+Place_ID,Name_of_place,Type,Food_Type,Category,Location_of_place,Neighborhood,Address,Vibe_Type,Crowd_Type,Has_Music,Has_Alcohol,Has_Smoking,Solo_Friendly,Group_Friendly,Phone,Price_Level,Price_Symbol,Price_Midpoint
+1,Cafe Lyria,Cafe,,Cafe,New York,SoHo,"166 Crosby St, New York, NY 10012","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 677-4579,0-25,$,12.5
+2,Fellini Coffee,Cafe,,Cafe,New York,West Village,"174 7th Ave S, New York, NY 10014","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,,25-60,$$,42.5
+3,Frame Coffee,Cafe,,Cafe,New York,Upper West Side,"305 Amsterdam Ave, New York, NY 10023","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 716-2365,0-25,$,12.5
+4,Harper’s Bread House,Cafe,,Cafe,New York,Lower East Side,"271 Grand St, New York, NY 10002","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 226-8882,0-25,$,12.5
+5,Hien From Vietnam,Cafe,,Cafe,New York,Chinatown,"121 Mott St, New York, NY 10013","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 917-0798,0-25,$,12.5
+6,Le Phin,Cafe,,Cafe,New York,East Village,"259 E 10th St, New York, NY 10009","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(929) 422-3972,25-60,$$,42.5
+7,Mee Sum Cafe,Cafe,,Cafe,New York,Chinatown,"26 Pell St, New York, NY 10013","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(212) 349-5260,0-25,$,12.5
+8,Paquita,Cafe,,Cafe,New York,West Village,"242 W 10th St, New York, NY 10014","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(646) 360-0335,25-60,$$,42.5
+9,Patisserie Vanessa,Cafe,,Cafe,New York,Upper East Side,"1340 Lexington Ave, New York, NY 10128","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(855) 466-5227,25-60,$$,42.5
+10,Pio Hot Bagels,Cafe,,Cafe,New York,Staten Island,"655 Rossville Ave, Staten Island, NY 10309","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(718) 605-6100,0-25,$,12.5
+11,Royal Crown Bakery,Cafe,,Cafe,New York,Staten Island,"1350 Hylan Blvd, Staten Island, NY 10305","Relaxed, Cozy","Students, Remote Workers",No,No,No,Yes,Yes,(718) 668-0284,0-25,$,12.5
+12,Caveat,Comedy Club,,Entertainment,New York,Lower East Side,"21A Clinton St, New York, NY 10002","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(212) 228-2100,0-25,$,12.5
+13,Eastville Comedy Club,Comedy Club,,Entertainment,New York,Fort Greene,"487 Atlantic Ave, Brooklyn, NY 11217","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(347) 889-5226,0-25,$,12.5
+14,Littlefield,Comedy Club,,Entertainment,New York,Fort Greene,"635 Sackett St, Brooklyn, NY 11217","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,0-25,$,12.5
+15,Pete’s Candy Store,Comedy Club,,Entertainment,New York,Williamsburg,"709 Lorimer St, Brooklyn, NY 11211","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(718) 302-3770,0-25,$,12.5
+16,Q.E.D. Astoria,Comedy Club,,Entertainment,New York,Astoria,"27-16 23rd Avenue, Astoria, NY 11105","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,(347) 451-3873,25-60,$$,42.5
+17,The Bell House,Comedy Club,,Entertainment,New York,Park Slope,"149 7th St, Brooklyn, NY 11215","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,25-60,$$,42.5
+18,The Stand,Comedy Club,,Entertainment,New York,East Village,"116 E 16th St, New York, NY 10003","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,25-60,$$,42.5
+19,The Tiny Cupboard,Comedy Club,,Entertainment,New York,Bushwick,"10 Cooper St, Brooklyn, NY 11207","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,25-60,$$,42.5
+20,Union Hall,Comedy Club,,Entertainment,New York,Park Slope,"702 Union St, Brooklyn, NY 11215","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,25-60,$$,42.5
+21,West Side Comedy Club,Comedy Club,,Entertainment,New York,Upper West Side,"201 W 75th St, New York, NY 10023","Casual, Lively","Mixed, Groups",No,No,No,Yes,Yes,,25-60,$$,42.5
+22,Bossa Nova Civic Club,Dance Club,,Night Life,New York,Bushwick,"1271 Myrtle Ave, Brooklyn, NY 11221","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,0-25,$,12.5
+23,Cafe Balearica,Dance Club,,Night Life,New York,Williamsburg,"44 Berry St, Brooklyn, NY 11249","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,0-25,$,12.5
+24,Friends and Lovers,Dance Club,,Night Life,New York,Brooklyn,"641 Classon Ave, Brooklyn, NY 11238","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,25-60,$$,42.5
+25,Gabriela,Dance Club,,Night Life,New York,Williamsburg,"90 Wythe Ave, Brooklyn, NY 11249","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,0-25,$,12.5
+26,Good Room,Dance Club,,Night Life,New York,Greenpoint,"98 Meserole Ave, Brooklyn, NY 11222","Energetic, Party",Party Crowd,Yes,Yes,No,Yes,Yes,,25-60,$$,42.5
+27,FROSCH & CO,Gallery,,Gallery,New York,Lower East Side,"34 E Broadway, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,0-25,$,12.5
+28,Gallery Onetwentyeight,Gallery,,Gallery,New York,Lower East Side,"128 Rivington St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,0-25,$,12.5
+29,Hannah Traore Gallery,Gallery,,Gallery,New York,Lower East Side,"150 Orchard St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,0-25,$,12.5
+30,Hashimoto Contemporary,Gallery,,Gallery,New York,Lower East Side,"54 Ludlow St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,0-25,$,12.5
+31,Hollis Taggart Downtown,Gallery,,Gallery,New York,Lower East Side,"109 Norfolk St, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,,0-25,$,12.5
+32,IFAC,Gallery,,Gallery,New York,Noho,"85 Delancey St 2nd floor, New York, NY 10002","Quiet, Artistic",Art Enthusiasts,No,No,No,Yes,Yes,(646) 863-1009,0-25,$,12.5
+33,Brooklyn Seltzer Museum,Museum,,Museum,New York,Brooklyn,"474 Hemlock St, Brooklyn, NY 11208","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 912-4941,25-60,$$,42.5
+34,Fraunces Tavern Museum,Museum,,Museum,New York,Lower Manhattan,"54 Pearl St 2nd floor, New York, NY 10004","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 425-1778,0-25,$,12.5
+35,City Reliquary,Museum,,Museum,New York,Williamsburg,"370 Metropolitan Ave, Brooklyn, NY 11211","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 782-4842,0-25,$,12.5
+36,Louis Armstrong House,Museum,,Museum,New York,Jackson Heights,"34-56 107th St, Queens, NY 11368","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 478-8274,0-25,$,12.5
+37,Museum of Chinese in America,Museum,,Museum,New York,Chinatown,"215 Centre St, New York, NY 10013","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 619-4785,0-25,$,12.5
+38,Nicholas Roerich Museum,Museum,,Museum,New York,Manhattan Valley,"319 W 107th St, New York, NY 10025","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 864-7752,0-25,$,12.5
+39,Skyscraper Museum,Museum,,Museum,New York,Financial District,"39 Battery Pl, New York, NY 10280","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 945-6324,0-25,$,12.5
+40,The Bone Museum,Museum,,Museum,New York,East Williamsburg,"255 McKibbin St Studio 0014, Brooklyn, NY 11206","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(914) 230-0937,0-25,$,12.5
+41,The Gecko Gallery NYC,Museum,,Museum,New York,East Williamsburg,"255 McKibbin St Studio 0019, Brooklyn, NY 11206","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(347) 510-6108,0-25,$,12.5
+42,The Renee & Chaim Gross Foundation,Museum,,Museum,New York,Greenwich Village,"526 LaGuardia Pl, New York, NY 10012","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(212) 529-4906,0-25,$,12.5
+43,Torah Animal World,Museum,,Museum,New York,Brooklyn,"1603 41st St, Brooklyn, NY 11218","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(877) 752-6286,0-25,$,12.5
+44,Vander Ende-Onderdonk House,Museum,,Museum,New York,Queens,"18-20 Flushing Ave, Ridgewood, NY 11385","Quiet, Educational","Tourists, Families",No,No,No,Yes,Yes,(718) 456-1776,0-25,$,12.5
+45,Omakase by Korami,Restaurant,Japanese,Food,New York,Midtown West,"400 W 50th St, New York, NY 10019","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 215-0650,120-200,$$$$,160
+46,Abuqir,Restaurant,Middle Eastern,Food,New York,Astoria,"24-19 Steinway St, Astoria, NY 11103","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 274-3474,25-60,$$,42.5
+47,Alba,Restaurant,Italian,Food,New York,Staten Island,"1880 Hylan Blvd, Staten Island, NY 10305","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(929) 556-6141,120-200,$$$$,160
+48,Angel,Restaurant,Indian,Food,New York,Jackson Heights,"7414 37th Rd, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 848-0098,25-60,$$,42.5
+49,Angelina's Kitchen,Restaurant,Italian,Food,New York,Staten Island,"280 Marsh Ave, Staten Island, NY 10314","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 698-2000,0-25,$,12.5
+50,Arepa Lady,Restaurant,Colombian,Food,New York,Jackson Heights,"77-17 37 Ave, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 745-1111,0-25,$,12.5
+51,Birria-Landia,Restaurant,Mexican,Food,New York,Jackson Heights,"77-99 Roosevelt Ave, New York, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 283-2162,0-25,$,12.5
+52,Bo Ky,Restaurant,Chinese,Food,New York,SoHo,"80 Bayard St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 406-2292,0-25,$,12.5
+53,Brooklyn Suya,Restaurant,Nigerian,Food,New York,Prospect Heights,"717 Franklin Ave, Brooklyn, NY 11238","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 513-0122,0-25,$,12.5
+54,Chalupas Poblanas El Tlecuile,Restaurant,Mexican,Food,New York,Corona,"37-47 Junction Blvd, New York, NY 11368","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 424-3662,25-60,$$,42.5
+55,Chang Lai Fishballs & Noodles,Restaurant,Chinese,Food,New York,SoHo,"55B Bayard St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 378-3991,0-25,$,12.5
+56,Denino's Pizzeria,Restaurant,Italian,Food,New York,Staten Island,"524 Port Richmond Ave, Staten Island, NY 10302","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 442-9401,25-60,$$,42.5
+57,Don Udon,Restaurant,Japanese,Food,New York,Prospect Heights,"634 Park Pl, Brooklyn, NY 11238","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 365-6388,25-60,$$,42.5
+58,Duffy's,Restaurant,American,Food,New York,Staten Island,"650 Forest Ave, Staten Island, NY 10310","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(646) 609-4820,25-60,$$,42.5
+59,El Sabroso,Restaurant,Mexican,Food,New York,Midtown,"265 W 37th St, New York, NY 10018","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 284-1118,25-60,$$,42.5
+60,Fu Zhou Wei Zhong,Restaurant,Chinese,Food,New York,Lower East Side,"88 E Broadway, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 431-3555,0-25,$,12.5
+61,Great N.Y. Noodletown,Restaurant,Chinese,Food,New York,SoHo,"28 Bowery, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 349-0923,0-25,$,12.5
+62,Hug Esan NYC,Restaurant,Thai,Food,New York,Elmhurst,"77-16 Woodside Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(929) 328-0392,25-60,$$,42.5
+63,Jackson Diner,Restaurant,Indian,Food,New York,Jackson Heights,"37-47 74th St, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 672-1232,25-60,$$,42.5
+64,Khao Kang,Restaurant,Thai,Food,New York,Elmhurst,"76-20 Woodside Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 806-1807,25-60,$$,42.5
+65,Killmeyer’s,Restaurant,German,Food,New York,Staten Island,"4254 Arthur Kill Rd, Staten Island, NY 10309","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 984-1202,25-60,$$,42.5
+66,Koten's Carribean and American Restaurant,Restaurant,Caribbean & American,Food,New York,Staten Island,"537 Port Richmond Ave, Staten Island, NY 10302","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,25-60,$$,42.5
+67,Lakruwana,Restaurant,Sri Lankan,Food,New York,Staten Island,"668 Bay St, Staten Island, NY 10304","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 857-6619,25-60,$$,42.5
+68,Lei,Restaurant,Chinese,Food,New York,SoHo,"15–17 Doyers St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,60-120,$$$,90
+69,Lillo Cucina Italiana,Restaurant,Italian,Food,New York,Brooklyn Heights,"221 Henry St, Brooklyn, NY 11201","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(347) 763-0899,25-60,$$,42.5
+70,Louie and Ernie's Pizza,Restaurant,Italian,Food,New York,Bronx,"1300 Crosby Ave, Bronx, NY 10461","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 829-6230,25-60,$$,42.5
+71,Margon Restaurant,Restaurant,Cuban,Food,New York,Mid Manhattan,"136 W 46th St, New York, NY 10036","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 354-5013,25-60,$$,42.5
+72,Marina Cafe,Restaurant,Italian,Food,New York,Staten Island,"154 Mansion Ave, Staten Island, NY 10308","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 967-3077,60-120,$$$,90
+73,Mariscos El Submarino,Restaurant,Mexican,Food,New York,Jackson Heights,"88-05 Roosevelt Ave, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 685-2780,25-60,$$,42.5
+74,Maxi’s Noodle 3,Restaurant,Chinese,Food,New York,Chinatown,"68 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,0-25,$,12.5
+75,Mei Lai Wah,Restaurant,Chinese,Food,New York,Chinatown,"41 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 966-7866,0-25,$,12.5
+76,Montalbano's,Restaurant,Italian,Food,New York,Staten Island,"1140 Bay St, Staten Island, NY 10305","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 356-0072,25-60,$$,42.5
+77,Nepali Bhanchha Ghar,Restaurant,Nepalese,Food,New York,Jackson Heights,"7406 37th Rd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(917) 745-0533,0-25,$,12.5
+78,New Asha Sri Lankan Restaurant,Restaurant,Sri Lankan,Food,New York,Staten Island,"322 Victory Blvd, Staten Island, NY 10301","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 420-0649,25-60,$$,42.5
+79,Ocean Sushi,Restaurant,Japanese,Food,New York,Staten Island,"20 Jefferson Blvd, Staten Island, NY 10312","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 966-6888,25-60,$$,42.5
+80,Phayul,Restaurant,Tibetan,Food,New York,Jackson Heights,"3765 74th St Fl 2, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 424-1869,25-60,$$,42.5
+81,Phoenix Palace,Restaurant,Chinese,Food,New York,Chinatown,"85 Bowery, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,60-120,$$$,90
+82,Punjabi Deli,Restaurant,Indian,Food,New York,East Village,"114 E 1st St, New York, NY 10009","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 533-3356,0-25,$,12.5
+83,Royal Seafood Restaurant,Restaurant,Chinese,Food,New York,Chinatown,"103 Mott St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 219-2338,25-60,$$,42.5
+84,Sariling Atin,Restaurant,Filipino,Food,New York,Woodside,"89-12 Queens Blvd, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 397-1200,25-60,$$,42.5
+85,Seba Seba,Restaurant,Ethiopian,Food,New York,Jackson Heights,"83-03 Northern Blvd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(718) 478-4691,25-60,$$,42.5
+86,Shu Jiao Fu Zhou,Restaurant,Chinese,Food,New York,Chinatown,"295 Grand St, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212)625-2532,25-60,$$,42.5
+87,Spicy Village,Restaurant,Chinese,Food,New York,Lower East Side,"68 Forsyth St B, New York, NY 10002","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 625-8299,25-60,$$,42.5
+88,Taiwan Pork Chop House,Restaurant,Taiwanese,Food,New York,Chinatown,"3 Doyers St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 791-7007,25-60,$$,42.5
+89,Taste Good Malaysian Cuisine,Restaurant,Malaysian,Food,New York,Elmhurst,"82-18 45th Ave, Elmhurst, NY 11373","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,25-60,$$,42.5
+90,The Queensboro Restaurant,Restaurant,American,Food,New York,Jackson Heights,"80-02 Northern Blvd, Jackson Heights, NY 11372","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,25-60,$$,42.5
+91,Uncle Lou,Restaurant,Chinese,Food,New York,Chinatown,"73 Mulberry St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,(212) 966-5538,25-60,$$,42.5
+92,Yi Ji Shi Mo,Restaurant,Chinese,Food,New York,Chinatown,"88 Elizabeth St, New York, NY 10013","Casual, Social","Mixed, Locals",No,Yes,No,Yes,Yes,,25-60,$$,42.5
+93,Luthun,Restaurant,Contemporary American / New American,Food,New York,East Village,"432 E 13th St, New York, NY 10009",Cozy,Locals,No,Yes,No,Yes,Yes,,120-200,$$$$,160
+94,Bookmarks,Rooftop Bar,Bar Bites,Bar,New York,Midtown East,"299 Madison Ave, New York, NY 10017",Casual,Mixed Crowd,No,No,No,Yes,Yes,(212) 204-5498,60-120,$$$,90
+95,Dear Irving on Hudson,Rooftop Bar,Bar Bites,Bar,New York,Midtown Manhattan,"310 West 40th Street, New York, NY 10018",Casual,Mixed Crowd,No,No,No,Yes,Yes,(917) 261-6908,60-120,$$$,90
+96,Harriet's Rooftop,Rooftop Bar,Bar Bites,Bar,New York,Brooklyn Heights,"60 Furman Street, Brooklyn, NY 11201",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 852-8797,60-120,$$$,90
+97,Night of Joy,Rooftop Bar,Bar Bites,Bar,New York,East Williamsburg,"667 Lorimer St, Brooklyn, NY 11211",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 388-8693,25-60,$$,42.5
+98,Westlight,Rooftop Bar,Bar Bites,Bar,New York,Greenpoint,"111 N 12th St, Brooklyn, NY 11249",Casual,Mixed Crowd,No,No,No,Yes,Yes,(718) 307-7100,60-120,$$$,90
+99,Chez Zou,Rooftop ,Mediterranean,Cocktail Lounge,New York,Hudson Yards,"385 9th Ave Suite 85 4th Floor, New York, NY 10001","Social, Intimate",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 380-8585,25-60,$$,42.5
+100,Zou Zou's,Restaurant,Mediterranean,Food,New York,Hudson Yards,"385 9th Ave Suite 85 1st Floor, New York, NY 10001","Casual, Energetic ",Mixed Crowd,Yes,Yes,No,No,Yes,(212) 380-8586,25-60,$$,42.5
+101,STK,Restaurant,Steakhouse,Food,New York,Midtown,"1114 6th Ave, New York, NY 10036","Chic, Energetic",Mixed Crowd,Yes,Yes,No,Yes,Yes,(646) 624-2455,60-120,$$$,90
+102,STK,Restaurant,Steakhouse,Food,New York,Meatpacking,"26 Little W 12th St, New York, NY 10014","Chic, Energetic",Mixed Crowd,Yes,Yes,No,Yes,Yes,(646) 624-2444,60-120,$$$,90
+103,Carmine's,Restaurant,Italian,Food,New York,Upper West Side,"2450 Broadway, New York, NY 10024","Casual, Energetic ",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 362-2200,25-60,$$,42.5
+104,estiatorio Milo's,Restaurant,"Greek, Seafood",Food,New York,Midtown,"125 W 55th St, New York, NY 10019","Intimate, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 245-7400,120-200,$$$$,160
+105,estiatorio Milo's,Restaurant,"Greek, Seafood",Food,New York,Hudson Yards,"20 Hudson Yards Fifth Floor, New York, NY 10001","Intimate, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(646) 907-1970,120-200,$$$$,160
+106,Butcher and Banker NYC,Restaurant,American,Food,New York,Midtown,"Vault Level, 481 8th Ave, New York, NY 10001","Speakeasy, Fine Dining",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 268-8455,120-200,$$$$,160
+107,Whitney Museum of American Art,Museum,,Museum,New York,Meatpacking,"99 Gansevoort St, New York, NY 10014","Casual, Relaxed","Mixed Crowd, Tourist, Family",No,No,No,Yes,Yes,(212) 570-3600,0-25,$,12.5
+108,David Zwirner,Gallery,,Museum,New York,Chelsea,"533 W 19th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 727-2070,0-25,$,12.5
+109,Gagosian,Gallery,,Museum,New York,Chelsea,"555 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 741-1111,0-25,$,12.5
+110,Matthew Marks Gallery,Gallery,,Museum,New York,Chelsea,"523 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 243-0200,0-25,$,12.5
+111,Gladstone Gallery,Gallery,,Museum,New York,Chelsea,"515 W 24th St, New York, NY 10011","Casual, Relaxed","Mixed Crowd, Tourist",No,No,No,Yes,Yes,(212) 206-9300,0-25,$,12.5
+112,The Seville NYC,Bar,Bar Bites,Bar,New York,NoMad,"22 E 29th St New York, NY 10016","Social, Energetic","Mixed, Locals",Yes,Yes,No,Yes,Yes,,120-200,$$$$,160
+113,Las'Lap,Bar,Carribean-Inspired,Bar,New York,Lower East Side,"74 Orchard St, New York, NY 10002","Social, Energetic","Mixed, Locals",Yes,Yes,Yes,Yes,Yes,(646) 484-6002,0-25,$,12.5
+114,Sweet Chick,Restaurant,American,Food,New York,Lower East Side,"178 Ludlow St, New York, NY 10002",Casual,"Mixed, Locals",Yes,Yes,No,Yes,Yes,(646) 657-0217,0-25,$,12.5
+115,The Delancy Rooftop,Rooftop,Bar Bites,Night Life,New York,Lower East Side,"168 Delancey St, New York, NY 10002","Energetic, Party",Mixed Crowd,Yes,Yes,No,Yes,Yes,(332) 244-5569,25-60,$$,42.5
+116,Ten11 Lounge & Bar,Bar,Bar Bites,Night Life,New York,NoMad,"19 W 31st St, New York, NY 10001","Intimate, Chic",Mixed Crowd,Yes,Yes,No,No,No,(929) 930-2598,60-120,$$$,90
+117,LÉLÉ,Restaurant,Afro-Carribean,Food,New York,Midtown,"237 Madison Ave, New York, NY 10016","Chic, Cozy, Intimate",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 999-6476,60-120,$$$,90
+118,Buddakan,Restaurant,Asian,Food,New York,Meatpacking,"75 9th Ave, New York, NY 10011","Chic, Energetic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 989-6699,60-120,$$$,90
+119,Laut NYC,Restaurant,Malaysian,Food,New York,Union Square,"15 E 17th St, New York, NY 10003","Cozy, Trendy, Energetic",Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 206-8989,25-60,$$,42.5
+120,Russ & Daughters Cafe,Restaurant,American,Food,New York,Lower East Side,"127 Orchard St, New York, NY 10002",Casual,Locals,No,No,No,Yes,Yes,(212) 475-4881,0-25,$,12.5
+121,Via Carota,Restaurant,Italian,Food,New York,West Village,"51 Grove St, New York, NY 10014",Cozy,Locals,Ambient Music,Yes,No,Yes,Yes,,60-120,$$$,90
+122,Don Angie ,Restaurant,Italian,Food,New York,West Village,"103 Greenwich Ave, New York, NY 10014","Cozy, Energetic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 889-8884,60-120,$$$,90
+123,COTE,Restaurant,Korean American Steakhouse,Food,New York,Flatiron,"16 W 22nd St, New York, NY 10010",Chic,Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 401-7886,120-200,$$$$,160
+124,Le Bernardin,Restaurant,French,Food,New York,Upper East Side,"155 W 51st St, New York, NY 10019","Upscale, Chic",Mixed Crowd,Ambient Music,Yes,No,No,Yes,(212) 554-1515,120-200,$$$$,160
+125,Balthazar,Restaurant,French,Food,New York,SoHo,"80 Spring St, New York, NY 10012","Lively, Energetic","Locals, Tourists",Ambient Music,Yes,No,Yes,Yes,(212) 965-1414,25-60,$$,42.5
+126,Win Son Bakery,Bakery,Taiwanese,Food,New York,East Village,"23 2nd Ave, New York, NY 10003",Casual,Locals,No,No,No,Yes,No,(646) 869-0150,0-25,$,12.5
+127,Tatiana by Kwame Onwuachi,Restaurant,Afro-Carribean,Food,New York,Lincoln Square,"10 Lincoln Center Plaza, New York, NY 10023","Energetic, Social",Mixed Crowd,Yes,Yes,No,Yes,Yes,(212) 875-5222,120-200,$$$$,160
+128,Clay ,Restaurant,American,Food,New York,Harlem,"553 Manhattan Ave, New York, NY 10027","Upscale, Chic","Mixed Crowd, Locals",Ambient Music,Yes,No,Yes,Yes,(212) 729-1850,60-120,$$$,90
+129,Frankie's 457 Spuntino,Restaurant,Italian-American,Food,New York,Park Slope,"457 Court St Brooklyn, NY 11231","Casual, Cozy",Locals,Ambient Music,Yes,No,Yes,Yes,(718) 403-0033,25-60,$$,42.5
+130,Blue Ribbon Brasserie,Restaurant,American,Food,New York,SoHo,"97 Sullivan St, New York, NY 10012","Casual, Cozy",Locals,No,Yes,No,Yes,Yes,(212) 274-0404,60-120,$$$,90
+131,Serafina Tribeca,Restaurant,Italian,Food,New York,Tribeca,"95 W Broadway, New York, NY 10007","Casual, Cozy, Authentic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 766-2700,25-60,$$,42.5
+132,Serafina Broadway 55th,Restaurant,Italian,Food,New York,Midtown,"210 W 55th St, New York, NY 10019","Casual, Cozy, Authentic",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 315-1700,25-60,$$,42.5
+133,Kyma Hudson Yards,Restaurant,Greek,Food,New York,Hudson Yards,"445 W 35th St, New York, NY 10001","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 967-9700,120-200,$$$$,160
+134,Kyma,Restaurant,Greek,Food,New York,Flatiron,"15 W 18th St, New York, NY 10011","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 268-5555,120-200,$$$$,160
+135,Monkey Bar,Restaurant,American,Food,New York,Midtown,"60 E 54th St, New York, NY 10022","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 404-0365,120-200,$$$$,160
+136,Catch,Restaurant,Seafood,Food,New York,Meatpacking,"21 9th Ave, New York, NY 10014","Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,(212) 392-5978,120-200,$$$$,160
+137,Paint 'N Pour,Activity,,Activity,New York,Lower East Side,"53 Delancey St, New York, NY 10002",Casual,Mixed Crowd,No,Yes,No,Yes,Yes,(212) 804-7037,25-60,$$,42.5
+138,Skyscape,Activity,,Activity,New York,Midtown,"928 8th Ave, New York, NY 10019",Casual,"Mixed Crowd, Family",No,No,No,Yes,Yes,N/A,25-60,$$,42.5
+139,Atomix,Restaurant,Korean,,New York,NoMad,"104 E 30th St, New York, NY 10016","Intimate, Chic, Upscale",Mixed Crowd,Ambient Music,Yes,No,Yes,Yes,N/A,120-200,$$$$,160
