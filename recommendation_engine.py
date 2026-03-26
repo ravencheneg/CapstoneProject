@@ -244,6 +244,27 @@ class NYCRecommendationEngine:
                 # Multiple categories specified
                 results = results[results['Category'].isin(category)]
 
+        # Apply Atmosphere/Vibe filter (partial matching)
+        # Filter if atmosphere is provided and not empty/None
+        if 'atmosphere' in user_data and user_data['atmosphere']:
+            atmo = user_data['atmosphere'].lower()
+
+            # Extract key words from user preference
+            # e.g., "Lively & Social" -> ["lively", "social"]
+            key_words = [word.strip() for word in atmo.replace('&', ' ').split()
+                        if len(word.strip()) > 2]
+
+            if key_words:
+                # Keep only places where vibe contains at least one key word
+                def matches_atmosphere(vibe_type):
+                    if pd.isna(vibe_type):
+                        return False
+                    vibe_lower = str(vibe_type).lower()
+                    # Match if ANY key word is found in the vibe
+                    return any(word in vibe_lower for word in key_words)
+
+                results = results[results['Vibe_Type'].apply(matches_atmosphere)]
+
         # Sort by similarity and return top N
         recommendations = results.nlargest(top_n, 'similarity_score')
 
