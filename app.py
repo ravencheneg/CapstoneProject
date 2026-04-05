@@ -6,13 +6,23 @@ import gradio as gr
 import pandas as pd
 from recommendation_engine import NYCRecommendationEngine
 
-# Initialize the recommendation engine
-print("Loading recommendation engine...")
-engine = NYCRecommendationEngine()
-print("Engine ready!")
+# Global variable for lazy loading
+engine = None
 
-# Get available categories from the dataset
-available_categories = sorted(engine.places_df['Category'].dropna().unique().tolist())
+def get_engine():
+    """Lazy load the recommendation engine only when needed."""
+    global engine
+    if engine is None:
+        print("Loading recommendation engine...")
+        engine = NYCRecommendationEngine()
+        print("Engine ready!")
+    return engine
+
+# Hardcoded categories to avoid loading engine at startup
+AVAILABLE_CATEGORIES = [
+    "Activity", "Bar", "Cafe", "Cocktail Lounge", "Entertainment",
+    "Food", "Gallery", "Museum", "Night Life"
+]
 
 
 def get_recommendations(
@@ -59,9 +69,10 @@ def get_recommendations(
     if music_genres:
         user_data['music_genres'] = music_genres
 
-    # Get recommendations
+    # Get recommendations (lazy load engine)
     try:
-        recommendations = engine.get_recommendations(user_data, top_n=int(num_recommendations))
+        eng = get_engine()
+        recommendations = eng.get_recommendations(user_data, top_n=int(num_recommendations))
 
         if len(recommendations) == 0:
             return "No places found matching your criteria. Try relaxing some filters.", ""
@@ -122,7 +133,7 @@ with gr.Blocks(title="NYC Places Recommendation System", theme=gr.themes.Soft())
             )
 
             category = gr.Dropdown(
-                choices=["Any"] + available_categories,
+                choices=["Any"] + AVAILABLE_CATEGORIES,
                 label="Category",
                 value="Any",
                 info="Only show places in this category"
